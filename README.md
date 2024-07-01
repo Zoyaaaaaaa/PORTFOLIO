@@ -1,2 +1,2 @@
 # PORTFOLIO
-My portfolio website.
+Discover my portfolio featuring cutting-edge web development and user-centric design.
